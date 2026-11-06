@@ -1,0 +1,26 @@
+[
+    {
+        "name": "__Secure-next-auth.session-token.0",
+        "value": "à remplir",
+        "domain": ".chatgpt.com",
+        "path": "/",
+        "secure": true,
+        "httpOnly": true
+    },
+    {
+        "name": "__Secure-next-auth.session-token.1",
+        "value": "à remplir",
+        "domain": ".chatgpt.com",
+        "path": "/",
+        "secure": true,
+        "httpOnly": true
+    },
+    {
+    "name": "__Secure-next-auth.callback-url",
+    "value": "à remplir",
+    "domain": ".chatgpt.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": true
+    }
+]
