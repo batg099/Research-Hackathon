@@ -14,6 +14,11 @@ with majority voting, then analysed for distribution, transitions, and links to 
     ├── hackathon_emotion/  # emotion annotation, hackathon
     ├── hackathon_action/   # action annotation, hackathon
     └── studychat/          # emotion annotation, StudyChat
+└── Scraping /
+    ├── scrape_conversation/ # functions for scraping
+    ├── cleaning/ # cleaning of the DataSet
+    └── chatgpt_cookies/ # necessary cookies in order to connect to a website (for scraping)
+
 ```
 
 Each `annotation/` subfolder holds the vLLM annotation script, the per-model
